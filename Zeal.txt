@@ -1,0 +1,17 @@
+Specs
+
+Plan publication;
+Office retiring/leaving when contract executes;
+Necessary plan following or else contract executes;
+Plan automated guidelines;
+
+No more peer participation for phase 1 due to the following problems:
+- Peer validation still difficult/costly to implement;
+- Enemies undermining via unregistered token buying;
+- Dealing with the complete electorate issue.
+
+
+
+Phase one of Zeal should be enough to ensure a safety environment on the
+targeted offices regarding the following of published plans, thus granting
+a trust advantage to insiders.
